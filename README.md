@@ -24,7 +24,7 @@ A real-time deep learning waste detection and garbage classification system usin
 ## How to Run
 
 1. Clone this repository on your local machine.
-2. Download the required dataset and model files using this [Google Drive Link](https://drive.google.com/file/d/1dXeYc-lT2kkoCLCo-sLE8p92jvc1s5yP/view?usp=sharing). Download and extract the `garbage_classification_yolo.zip` file and place it in the main cloned project directory.
+2. Download the required dataset and model files using this [Google Drive Link](https://drive.google.com/file/d/1dXeYc-lT2kkoCLCo-sLE8p92jvc1s5yP/view?usp=sharing). Download and extract the `garbage_classification_yolo.zip` file and place the folder in the main cloned project directory.
 > The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification).
 3. Open and run the first cell of the `Garbage Classifier.ipynb` Jupyter Notebook file to install the required dependencies.
 4. Run and execute the second cell of the file, where you can train from scratch, load existing available model, continue training existing model, test the model on sample images, upload your own images for garbage classification (or use real-time webcam for the same), or exit and end the system.
