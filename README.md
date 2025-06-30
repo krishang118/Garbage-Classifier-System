@@ -34,7 +34,7 @@ The model trains for 50 epochs, with batch size 16, and early stopping support a
 
 When running the real-time inference, you can either test the model real-time on your system (at `http://localhost:5001`) via your webcam (if available) or by uploading the images; or you can scan the QR Code using your smartphone and carry out the same process through your phone camera.
 
-If required, you may change the code's configurations to customize and tailor it to your needs too.
+If required, you may also change the code's configurations to customize and tailor it to your needs.
 
 ## Contributing
 
