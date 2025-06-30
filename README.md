@@ -40,6 +40,3 @@ Contributions are welcome!
 ## License
 
 Distributed under the MIT License.  
-
-Garbage-Classifier-System
-A real-time deep learning garbage classification system using YOLOv8 with a Flask-based web interface.
