@@ -20,7 +20,8 @@ A real-time deep learning waste detection and garbage classification system usin
 ├── garbage_classification_yolo/     # Data, models weights and other files
 ├── ... other files ...
 ```
-The 6 classes for the 'garbage' dataset: Cardboard, Glass, Metal, Paper, Plastic, Trash
+The 6 classes for the 'garbage' dataset: Cardboard, Glass, Metal, Paper, Plastic, Trash.
+
 The model trains for 50 epochs, with batch size 16, and early stopping support after 10 epochs with no improvement.
 
 ## How to Run
