@@ -1,7 +1,7 @@
 # Garbage Classifier System
 
 A real-time deep learning waste detection and garbage classification system using YOLOv8 object detection framework, with an interactive Flask-based web interface.
-
+ 
 ## Features
 
 - Automated Dataset Processing: Converts image datasets organized in class folders to YOLO format with bounding box annotations.
